@@ -18,7 +18,7 @@ class About extends Component {
                     <Card.Body>
                       <Card.Title c>Our Founders</Card.Title>
                       <Card.Text>
-                        All of them passed out from Cdac acts batch of 2021.
+                        All of them passed out from Cdac Bangalore batch of 2022.
                       </Card.Text>
                       {/* <Button variant="primary">Go somewhere</Button> */}
                     </Card.Body>
@@ -31,7 +31,7 @@ class About extends Component {
                   <Card style={{ width: "12rem", color: "black" }}>
                     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                     <Card.Body>
-                      <Card.Title c>Omkar Kulkarni</Card.Title>
+                      <Card.Title c>Manish Kumar Singh</Card.Title>
                       <Card.Text>
                         Some quick example text to build on the card title and
                         make up the bulk of the card's content.
@@ -47,7 +47,7 @@ class About extends Component {
                   <Card style={{ width: "12rem", color: "black" }}>
                     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                     <Card.Body>
-                      <Card.Title c>Lokesh Jawale</Card.Title>
+                      <Card.Title c>Neeraj Kumar Yadav</Card.Title>
                       <Card.Text>
                         Some quick example text to build on the card title and
                         make up the bulk of the card's content.
@@ -65,7 +65,7 @@ class About extends Component {
                   <Card style={{ width: "12rem", color: "black" }}>
                     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                     <Card.Body>
-                      <Card.Title c>Akshay Kshirsagar</Card.Title>
+                      <Card.Title c>Jadhav Pratik Laxman</Card.Title>
                       <Card.Text>
                         Some quick example text to build on the card title and
                         make up the bulk
@@ -80,7 +80,7 @@ class About extends Component {
                   <Card style={{ width: "12rem", color: "black" }}>
                     {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
                     <Card.Body>
-                      <Card.Title c>Akshay Kakde</Card.Title>
+                      <Card.Title c>Hrushikesh Anil</Card.Title>
                       <Card.Text>
                         Some quick example text to build on the card title and
                         make up the bulk of the card's content.
@@ -94,7 +94,7 @@ class About extends Component {
             <Card style={{ width: "12rem", color: "black" }}>
               {/* <Card.Img variant="top" src="holder.js/100px180" /> */}
               <Card.Body>
-                <Card.Title c>Nayan Dakhane</Card.Title>
+                <Card.Title c>Monil Mishra</Card.Title>
                 <Card.Text>
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
